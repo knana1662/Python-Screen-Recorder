@@ -1,1 +1,1 @@
-# Python-Screen-Reecorder
+# Python-Screen-Recorder
